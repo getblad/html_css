@@ -1,0 +1,19 @@
+.even{
+    background-color: hsl(78, 59%, 41%);
+}
+.odd{
+    background-color: aquamarine;
+}
+.header{
+    background-color: rgb(213, 232, 130);
+}
+ul{
+    list-style-type: square;
+    text-shadow: 1px 1px gold;
+}
+a:visited{
+color: red;
+}
+a:link{
+    color:inherit;
+}
